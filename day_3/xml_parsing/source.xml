@@ -1,0 +1,17 @@
+<collection about="Book_MY_Show">
+    <element screen="Screen_1">
+        <mname>Toy Story 1</mname>
+        <mtype>Kids</mtype>
+        <duration>2.5 hrs</duration>
+    </element>
+    <element screen="Screen_2">
+        <mname>John Wick 3</mname>
+        <mtype>Action</mtype>
+        <duration>2 hrs</duration>
+    </element>
+    <element screen="Screen_3">
+        <mname>Saw</mname>
+        <mtype>Horror</mtype>
+        <duration>3 hrs</duration>
+    </element>
+</collection>
